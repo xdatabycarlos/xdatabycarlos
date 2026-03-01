@@ -17,8 +17,7 @@ Meu objetivo não é apenas construir modelos, mas responder perguntas como:
 - o que os dados indicam que deve ser feito?
 - qual ação é mais eficiente com base em evidências?
 
-Busco desenvolver soluções completas:
-coleta de dados → análise → insight → recomendação → sistema utilizável.
+Busco transformar dados em insights e recomendações acionáveis que apoiem decisões reais de negócio.
 
 Acredito em Data-Driven Decision Making: decisões orientadas por dados, métricas e evidências, conectando análise técnica ao contexto de negócio.
 
@@ -100,8 +99,7 @@ My goal is not only to build models, but to answer questions such as:
 - what do the data indicate should be done?
 - which action is most effective based on evidence?
 
-I aim to build complete solutions:
-data collection → analysis → insight → recommendation → usable system.
+I aim to transform data into actionable insights and recommendations that support real business decisions.
 
 I believe in Data-Driven Decision Making: decisions guided by data, metrics and evidence, connecting technical analysis with business context.
 
